@@ -1,0 +1,10 @@
+{
+    "editor.autoIndentOnPaste": true,
+    "editor.dropIntoEditor.preferences": [
+
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    }
+}
