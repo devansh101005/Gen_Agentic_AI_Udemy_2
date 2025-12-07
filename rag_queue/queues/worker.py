@@ -1,3 +1,7 @@
+#To run worker file with rq use this command rq worker --worker-class rq.worker.SimpleWorker
+# dont use rq worker as windows doesnot have os.fork() and rq uses that 
+
+
 from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_qdrant import QdrantVectorStore
