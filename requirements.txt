@@ -54,10 +54,10 @@ langchain-google-genai==3.2.0
 langchain-openai==1.1.0
 langchain-qdrant==1.1.0
 langchain-text-splitters==1.0.0
-langgraph==1.0.4
+langgraph==1.0.5
 langgraph-checkpoint==3.0.1
 langgraph-prebuilt==1.0.5
-langgraph-sdk==0.2.12
+langgraph-sdk==0.3.0
 langsmith==0.4.54
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
